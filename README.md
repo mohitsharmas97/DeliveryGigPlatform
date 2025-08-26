@@ -1,4 +1,6 @@
 # DeliveryGigPlatform
+<img width="1301" height="642" alt="image" src="https://github.com/user-attachments/assets/56c890bd-d40f-41a9-9804-8ba983af207a" />
+
 
 ## Project Description
 
