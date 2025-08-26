@@ -66,6 +66,8 @@ The platform aims to democratize the delivery industry by putting control back i
 - **Network**: Stacks Testnet
 - **Contract Address**: 'ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q.DELIVERYGIGPLATFORM'
 - **Deployment Transaction**: '0x80ef9e649e7151f2ffc3f66b871cb2084a17492f35276843858cd107bed792b6'
+- **Deployed By**:'ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q'
+- **Block Hash**:'0x1b768b04534e812610a2fd8339e4918ab48851002258f5bc4f28a89fe936a16e
 - **Block Height**: `9:32:38 AM 8/26/2025`
 
 
