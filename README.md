@@ -82,5 +82,3 @@ The platform aims to democratize the delivery industry by putting control back i
 - **get-driver-rating**: Views driver reputation and statistics
 - **get-token-balance**: Checks platform token rewards balance
 
-
-*For technical support, partnership inquiries, or community discussions, please refer to our official channels that will be announced upon launch.*
