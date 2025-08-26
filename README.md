@@ -1,6 +1,4 @@
 # DeliveryGigPlatform
-<img width="1301" height="642" alt="image" src="https://github.com/user-attachments/assets/56c890bd-d40f-41a9-9804-8ba983af207a" />
-
 
 ## Project Description
 
@@ -61,16 +59,8 @@ The platform aims to democratize the delivery industry by putting control back i
 - **Advanced Analytics Dashboard**: Comprehensive analytics for drivers and platform optimization
 
 ## Contract Address Details
-
-*Contract deployment details will be updated upon mainnet deployment*
-
-### Testnet Deployment
-- **Network**: Stacks Testnet
-- **Contract Address**: 'ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q.DELIVERYGIGPLATFORM'
-- **Transaction ID**: '0x80ef9e649e7151f2ffc3f66b871cb2084a17492f35276843858cd107bed792b6'
-- **Deployed By**:'ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q'
-- **Block Hash**:'0x1b768b04534e812610a2fd8339e4918ab48851002258f5bc4f28a89fe936a16e
-- **Block Height**: `9:32:38 AM 8/26/2025`
+ Contract ID:ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q.DELIVERYGIGPLATFORM
+ <img width="1301" height="642" alt="image" src="https://github.com/user-attachments/assets/56c890bd-d40f-41a9-9804-8ba983af207a" />
 
 
 
