@@ -65,7 +65,7 @@ The platform aims to democratize the delivery industry by putting control back i
 ### Testnet Deployment
 - **Network**: Stacks Testnet
 - **Contract Address**: 'ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q.DELIVERYGIGPLATFORM'
-- **Deployment Transaction**: '0x80ef9e649e7151f2ffc3f66b871cb2084a17492f35276843858cd107bed792b6'
+- **Transaction ID**: '0x80ef9e649e7151f2ffc3f66b871cb2084a17492f35276843858cd107bed792b6'
 - **Deployed By**:'ST2R4Y2T06ZPG3NXP1A1GRGBESVA0WTRSGSCDF75Q'
 - **Block Hash**:'0x1b768b04534e812610a2fd8339e4918ab48851002258f5bc4f28a89fe936a16e
 - **Block Height**: `9:32:38 AM 8/26/2025`
@@ -80,11 +80,5 @@ The platform aims to democratize the delivery industry by putting control back i
 - **get-driver-rating**: Views driver reputation and statistics
 - **get-token-balance**: Checks platform token rewards balance
 
-### Development & Testing
-- **Repository**: `[GitHub repository link to be added]`
-- **Documentation**: `[Documentation link to be added]`
-- **API Endpoints**: `[API documentation to be added]`
-
----
 
 *For technical support, partnership inquiries, or community discussions, please refer to our official channels that will be announced upon launch.*
